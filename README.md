@@ -1,5 +1,8 @@
 # -TANDEMLOOP
-all these progarms are written java language 
+
+All these progarms are written in JAVA language.
+
+
 INSTRUCTIONS FOR ALL FOUR QUESTIONS AS FOLLOWS:-
 
 
